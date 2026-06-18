@@ -1,6 +1,6 @@
 ## FiJi-macros
 
-Here yo can find the macros we use with FiJi for image analysis:
+Here you can find the macros we use with FiJi for image analysis:
 
 - **Macro_Fibrosis_Masson.ijm**: automate the quantification of the fibrotic area in Masson's Trichrome stained tissue sections.
 - **IHC_DAB_Area_Quantification.ijm**: automate the quantification of DAB-positive area from IHC slides.
